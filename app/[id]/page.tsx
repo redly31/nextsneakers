@@ -3,7 +3,7 @@ type Params = {
   id: string;
 };
 
-export default function page(params: Params) {
+export default function Sneaker(params: Params) {
   const sneakers = [
     {
       name: "Nike Venture Runner",
