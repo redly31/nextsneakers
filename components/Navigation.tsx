@@ -3,6 +3,7 @@ import { auth, signOut } from "@/helpers/auth";
 
 export default async function Navigation() {
   const session = await auth()
+
   return (
     <nav className="max-w-sm mx-auto h-16 flex items-center justify-between px-2.5 mb-2.5">
         <Link className="" href="/about">

@@ -16,9 +16,9 @@
 
 body {
   background-color: #202020;
-  min-height: 100vh;
 }
 
 * {
   color: #e3e3e3;
+  outline: none;
 }

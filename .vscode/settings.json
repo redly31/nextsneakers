@@ -15,7 +15,8 @@
         ".next": true,
         ".vscode": true,
         "node_modules": true,
-        "next-env.d.ts": true
+        "next-env.d.ts": true,
+        "tailwind.config.ts": true
     },
     "explorerExclude.backup": {}
 }
